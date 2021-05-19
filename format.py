@@ -1,0 +1,1 @@
+print("first: {0}; second: {1} third: {2}".format(10, 20, 30))
